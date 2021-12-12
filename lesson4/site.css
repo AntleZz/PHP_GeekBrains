@@ -1,0 +1,30 @@
+body{
+    color: #5e5e5e;
+    font-family: "Open Sans", sans-serif;
+	background: url('background.jpg') no-repeat;
+	background-size: cover;
+}
+header {
+    position: relative;
+    height: 50px;
+    border-bottom: 1px solid rgb(0,0,0);
+	margin: auto;
+}
+#name{
+	display: flex;
+	justify-content: flex-end;
+    color: #8B0000;
+    font-size: 30px;
+	padding-right: 20px;
+}
+#main {
+	width:1180px;
+	height: 460px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin:0 auto;
+	padding-top:30px;
+}
+
+	
